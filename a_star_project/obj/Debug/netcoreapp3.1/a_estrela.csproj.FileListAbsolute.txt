@@ -1,0 +1,13 @@
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.exe
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.deps.json
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.runtimeconfig.json
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.runtimeconfig.dev.json
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.dll
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\bin\Debug\netcoreapp3.1\a_estrela.pdb
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.csprojAssemblyReference.cache
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.AssemblyInfoInputs.cache
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.AssemblyInfo.cs
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.csproj.CoreCompileInputs.cache
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.dll
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.pdb
+C:\Users\Kyros\Documents\UFU\PLIA\tarefa3\a_estrela\obj\Debug\netcoreapp3.1\a_estrela.genruntimeconfig.cache
